@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>chapter06_Builder_Pattern.demo3.HeroBuilder</className>
+</config>
