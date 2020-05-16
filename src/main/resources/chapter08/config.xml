@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!--RefinedAbstraction-->
+    <className>chapter08_Bridge_Pattern.demo3.abstraction.JPGImage</className>
+    <!--ConcreteImplementor-->
+    <className>chapter08_Bridge_Pattern.demo3.implementor.WindowsImp</className>
+</config>
