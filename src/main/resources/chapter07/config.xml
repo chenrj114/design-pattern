@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>chapter07_Adapter_Pattern.demo2.OperationAdapter</className>
+</config>
